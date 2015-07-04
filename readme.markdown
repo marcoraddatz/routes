@@ -6,7 +6,7 @@ Hi, thanks for checking out Routes! Routes is low-level PHP class for defining a
 
 You can install via Composer or grab the files and include whichever way you prefer.
 
-    require { "simonhamp/routes": "1.0" }
+    require { "simonhamp/routes": "1.*" }
 
 ## Usage
 
